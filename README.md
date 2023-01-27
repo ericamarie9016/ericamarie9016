@@ -2,8 +2,6 @@
 
 My name is Erica, I am a current student in the Masters of Environmental Data Science program at University of California, Santa Barbara.
 
-https://ericamarie9016.github.io/
-
 Background:
 🌱 Botanical field and greenhouse work
 
