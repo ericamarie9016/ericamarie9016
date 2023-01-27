@@ -1,12 +1,21 @@
 ### Hi there 👋
 
+My name is Erica, I am a current student in the Masters of Environmental Data Science program at University of California, Santa Barbara.
+
+https://ericamarie9016.github.io/
+
+Background:
+🌱 Botanical field and greenhouse work
+
+Find out more about my experience at my <a href="https://ericamarie9016.github.io/">website!</a>
+
 <!--
 **ericamarie9016/ericamarie9016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+-  I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
