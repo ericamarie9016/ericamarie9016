@@ -5,6 +5,9 @@ My name is Erica, I am a current student in the Masters of Environmental Data Sc
 Background:
 🌱 Botanical field and greenhouse work
 
+Within my repositories you can find some examples of my classwork, including independent and group work within R and Python.
+My final capstone project is with the <a href="https://github.com/fire-futures">Fire Futures Organization</a>.
+
 Find out more about my experience at my <a href="https://ericamarie9016.github.io/">website!</a>
 
 <!--
