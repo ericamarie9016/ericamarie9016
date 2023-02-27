@@ -1,5 +1,5 @@
-### Hello world! 👋 
-## Welcome to my world!
+## Hello world! 👋 
+### Welcome to my world!
 
 My name is Erica, I am a current student in the Masters of Environmental Data Science program at University of California, Santa Barbara - Bren School of Environmental Science & Management.
 
