@@ -9,8 +9,9 @@ My name is Erica, I am passionate to visualize ecosystem dynamics through GIS an
 - 🌱 Experience with greenhouse, lab, and field research focused on botanical and ecological interactions.  
 - 🌱 With regular national and international travel, I enjoy expanding my perspective through hands-on lessons regarding other cultures and regional environmental dynamics.
 
-Within my repositories you can find some examples of my classwork, including independent and group work within R and Python.
-My final ongoing capstone project is with the <a href="https://github.com/fire-futures">Fire Futures Organization</a>.
+Within my repositories you can find some examples of my classwork, including independent and group work utilizing R and Python.
+My final capstone project was with the <a href="https://github.com/fire-futures">Fire Futures Organization</a>.
 
 Find out more about my experience at my <a href="https://ericamarie9016.github.io/">website</a>.
 
+You can also find me on <a href="https://www.linkedin.com/in/erica-dale-05851924/">Linked In</a>.
