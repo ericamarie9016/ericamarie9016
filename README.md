@@ -1,10 +1,10 @@
 ## Hello world! 👋 
 ### Welcome to my world!
 
-My name is Erica, I am a current student in the Masters of Environmental Data Science program, more about this degree can be found <a href = "https://ucsb-meds.github.io/">here</a>. I am passionate to visualize ecosystem dynamics through computational modeling and apply data skills to global conservation issues. I aim to work with nonprofits and government entities to utilize data science for science communication and decision making on global issues such as conservation and environmental justice.
+My name is Erica, I am passionate to visualize ecosystem dynamics through GIS and apply data analysis to support global conservation issues. I aim to work with nonprofits and government entities to utilize data science for science communication and decision making on global issues such as conservation and environmental justice.
 
 #### Background:
-- 🌱 Masters of Environmental Data Science: Bren School of Environmental Science & Management - University of California, Santa Barbara, Expected June 2023
+- 🌱 Masters of Environmental Data Science: Bren School of Environmental Science & Management - University of California, Santa Barbara, June 2023
 - 🌱 Bachelors of Science in Biology, Concentration Organismal Biology and Ecology: Towson University, June 2016
 - 🌱 Experience with greenhouse, lab, and field research focused on botanical and ecological interactions.  
 - 🌱 With regular national and international travel, I enjoy expanding my perspective through hands-on lessons regarding other cultures and regional environmental dynamics.
